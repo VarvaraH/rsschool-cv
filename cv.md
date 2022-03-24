@@ -49,3 +49,30 @@ ability to motivate others, teamwork, willingness to develop, and willingness to
 > intramuscular, subcutaneous, oral, sublingual, inhalation. Maintain medical documentation.
 
 
+### Education
+
+**University of Technology and Economics, Warsaw** *Oct 2021 - Jun 2025 (expected)*
+  Engineer's degree, Computer Science, engineering research
+
+**Belarusian State University** *Sep 2018 - Feb 2020*
+  Law, Unfinished higher education
+  
+**Belarusian State Medical College** *Sep 2014 - Jun 2017*
+  Medical/Clinical Assistant
+
+**Minsk State Regional Lyceum** *Sep 2012 - Jun 2014*
+  English and Russian philology, High School Diploma
+  
+  
+### Licenses & Certifications
+  
+**Javascript/DOM/Interfaces** 
+*javascript.info*
+
+**Responsive Web Design**
+*freeCodeCamp*
+
+**JavaScript Algorithms and Data Structures**
+*freeCodeCamp*
+
+
