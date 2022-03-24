@@ -76,3 +76,40 @@ ability to motivate others, teamwork, willingness to develop, and willingness to
 *freeCodeCamp*
 
 
+> ### Programming Languages                     > ### Other Skills
+> JavaScript                                    > MSOffice, MSWindows, iOS, Jira, Trello, Git, GitHub,
+> HTML                                          > OOP, Visual Studio, Scrum
+> CSS                                           
+> Java                                          > ### Soft Skills
+> SQL                                           > Teamwork, Friendliness, time management, creativity
+                                                > Collaboration, Adaptability
+
+
+> ### Languages
+> *English* - B1
+> *Polish* - B1
+> *Russian* - Native
+> *Belarusian* - Native
+
+### Hobbies
+Joga, Fitness/Gym, Snowboarding, Trekking, Music, Art, Psychology, Photography
+
+
+### Code examples
+
+```                                                                           ```
+function nicknameGenerator(name){                                             function explode(s) {
+  let shortName = "";                                                         let str = s.replace(/\d/g, dig => dig.repeat(dig));
+  const box = 'aeiou';                                                        return str;
+                                                                              }
+  if (name.length < 4) {                                                      ```
+    return "Error: Name too short";
+  } 
+  else if (name.length >= 4 && !box.includes(name.charAt(2))) {
+    return shortName = name.substring(0, 3);
+    }
+  else if (name.length >= 4 && box.includes(name.charAt(2))) {
+    return shortName = name.substring(0, 4);
+    }
+}
+```
