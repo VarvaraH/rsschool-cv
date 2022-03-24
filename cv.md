@@ -76,20 +76,24 @@ ability to motivate others, teamwork, willingness to develop, and willingness to
 *freeCodeCamp*
 
 
-> ### Programming Languages                     > ### Other Skills
-> JavaScript                                    > MSOffice, MSWindows, iOS, Jira, Trello, Git, GitHub,
-> HTML                                          > OOP, Visual Studio, Scrum
-> CSS                                           
-> Java                                          > ### Soft Skills
-> SQL                                           > Teamwork, Friendliness, time management, creativity
-                                                > Collaboration, Adaptability
+### Programming Languages                      
+- JavaScript                                    
+- HTML                                           
+- CSS                                           
+- Java 
+- SQL
 
+### Other Skills
+- MSOffice, MSWindows, iOS, Jira, Trello, Git, GitHub, OOP, Visual Studio, Scrum
+                                        
+### Soft Skills
+- Teamwork, Friendliness, Time management, Creativity, Collaboration, Adaptability
 
-> ### Languages
-> *English* - B1
-> *Polish* - B1
-> *Russian* - Native
-> *Belarusian* - Native
+### Languages
+- *English*  - B1
+- *Polish* - B1
+- *Russian* - Native
+- *Belarusian* - Native
 
 ### Hobbies
 Joga, Fitness/Gym, Snowboarding, Trekking, Music, Art, Psychology, Photography
